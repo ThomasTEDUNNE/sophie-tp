@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sophie-tp/static/css/main.3fad5194.css",
-    "main.js": "/sophie-tp/static/js/main.bc3e4812.js",
+    "main.js": "/sophie-tp/static/js/main.805b4929.js",
     "index.html": "/sophie-tp/index.html",
     "main.3fad5194.css.map": "/sophie-tp/static/css/main.3fad5194.css.map",
-    "main.bc3e4812.js.map": "/sophie-tp/static/js/main.bc3e4812.js.map"
+    "main.805b4929.js.map": "/sophie-tp/static/js/main.805b4929.js.map"
   },
   "entrypoints": [
     "static/css/main.3fad5194.css",
-    "static/js/main.bc3e4812.js"
+    "static/js/main.805b4929.js"
   ]
 }
